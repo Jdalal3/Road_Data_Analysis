@@ -30,4 +30,10 @@ In today's fast-paced world, understanding traffic patterns and accident causati
 4. **Customize and Share**: Feel free to customize the dashboard to fit your needs and share your discoveries with others!
 
 
+## Dashboard Representation
 
+![Image 1](Images/Picture1.png)
+
+## Example of Pivot Table: - 
+
+![Image 2](Images/Picture2.png)
